@@ -2,3 +2,4 @@
 - Implemented features for ﬁle opening and saving, undo and redo functionalities, and multiple font styles and sizes to enhance user experience 
 - Oﬀered three themes for users to customize their experience while taking notes, writing code, or creating simple documents 
 - **Tech Stack Used**: Java
+- [Demo video link](https://www.youtube.com/watch?v=WmbUR67Jxk0)
